@@ -30,6 +30,8 @@ Mostra l'evolució dels nivells d'assoliment (Alt, Mitja, Baix) al llarg dels an
 
 ## Execució
 
+**Important**: cal primer descomprimir la base de dades (ha calgut pujar-la comprimida en .7z ja que el tamany no permetia pujar la original.
+
 ```bash
 python generate_visualization.py
 ```
@@ -67,3 +69,4 @@ Prac2/
 **Rita Roca Taxonera**  
 Visualització de Dades - UOC  
 Gener 2026
+
